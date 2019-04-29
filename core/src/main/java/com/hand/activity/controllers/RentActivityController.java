@@ -30,7 +30,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-@Controller
+    @Controller
     public class RentActivityController extends BaseController{
 
         @InitBinder
